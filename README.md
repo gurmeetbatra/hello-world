@@ -1,4 +1,4 @@
-# Learning-Github
+# Learning-Github-Markup
 ## sub heading
 ### NEW Heading from a Collaborator
 
